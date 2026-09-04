@@ -1,0 +1,1 @@
+Primer commit, todo funcionó bien, cuadro blanco apareció

@@ -1,0 +1,22 @@
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\ProyectoBase S2.exe
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\ProyectoBase S2.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\ProyectoBase S2.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\ProyectoBase S2.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\ProyectoBase S2.pdb
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\Raylib-cs.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\runtimes\win-x64\native\raylib.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\bin\Debug\net10.0\runtimes\win-x86\native\raylib.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\Proyecto.D5D5A8B1.Up2Date
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\refint\ProyectoBase S2.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.pdb
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ref\ProyectoBase S2.dll

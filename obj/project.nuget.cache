@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQdVshuukyM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\OneDrive\\Escritorio\\Graficas por Computadora\\ProyectoBase S2\\ProyectoBase S2\\ProyectoBase S2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\raylib-cs\\8.0.0\\raylib-cs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
