@@ -20,3 +20,4 @@ C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\Proy
 C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.pdb
 C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.genruntimeconfig.cache
 C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ref\ProyectoBase S2.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\ProyectoBase S2\ProyectoBase S2\obj\Debug\net10.0\ProyectoBase S2.sourcelink.json
